@@ -1,93 +1,261 @@
-# Hi, I'm Kamalini 👋
+<div align="center">
 
-### Information Technology Student | Artificial Intelligence & Machine Learning | Data Science
+# 👋 Hi, I'm Kamalini
+
+### 💻 Information Technology Student | 🤖 AI & Machine Learning | 📊 Data Science
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Machine+Learning;Data+Science+Enthusiast;Full+Stack+Developer;Python+Developer;Building+Real-World+Projects+🚀" alt="Typing SVG" />
+
+<br>
+
+<a href="https://github.com/kamalinirajan7-dotcom">
+<img src="https://komarev.com/ghpvc/?username=kamalinirajan7-dotcom&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</a>
+
+</div>
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-I'm an Information Technology student interested in building practical
-software and machine learning applications.
+🎓 I'm an **Information Technology student** passionate about technology and problem solving.
 
-I enjoy working with Python, Machine Learning, Backend Development,
-and modern web technologies.
+🤖 Interested in **Artificial Intelligence, Machine Learning and Data Science**.
 
-🌱 Currently learning:
-- Machine Learning
-- Artificial Intelligence
-- Data Science
-- Backend Development
-- Full Stack Development
+💻 I enjoy building practical applications using **Python, APIs, web technologies and machine learning**.
 
-🔭 Currently working on:
-- Machine Learning projects
-- AI applications
-- Full Stack projects
-- REST APIs
+🌱 Currently learning and improving my skills in:
+
+- 🤖 Machine Learning
+- 🧠 Artificial Intelligence
+- 📊 Data Science
+- ⚙️ Backend Development
+- 🌐 Full Stack Development
+- ☁️ Cloud Technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 👨‍💻 Programming Languages
 
-Python • Java • JavaScript • HTML • CSS
+<p align="left">
+
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
+</a>
+
+<a href="https://www.java.com/">
+<img src="https://skillicons.dev/icons?i=java" width="55"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" width="55"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" width="55"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" width="55"/>
+</a>
+
+</p>
 
 ### 🤖 AI / Machine Learning
 
-Python • Pandas • NumPy • Scikit-learn
+<p align="left">
 
-### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
 
-FastAPI • REST APIs
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/>
 
-### 🎨 Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
 
-HTML • CSS • JavaScript • Streamlit
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55"/>
+
+</p>
+
+### ⚙️ Backend & Web
+
+<p align="left">
+
+<a href="https://fastapi.tiangolo.com/">
+<img src="https://skillicons.dev/icons?i=fastapi" width="55"/>
+</a>
+
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
+</a>
+
+<a href="https://expressjs.com/">
+<img src="https://skillicons.dev/icons?i=express" width="55"/>
+</a>
+
+<a href="https://streamlit.io/">
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="55"/>
+</a>
+
+</p>
 
 ### 🗄️ Databases
 
-MySQL • MongoDB
+<p align="left">
 
-### 🛠️ Tools
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+</a>
 
-Git • GitHub • VS Code
+<a href="https://www.mongodb.com/">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
+</a>
+
+</p>
+
+### 🧰 Tools
+
+<p align="left">
+
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" width="55"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+</a>
+
+<a href="https://www.docker.com/">
+<img src="https://skillicons.dev/icons?i=docker" width="55"/>
+</a>
+
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
 
 ### 🏦 Loan Approval Predictor
 
-A supervised machine learning project that predicts loan approval
-using applicant information.
+Machine Learning powered loan approval application.
 
-**Technologies:**
+**Tech Stack**
 
-Python • Scikit-learn • FastAPI • Streamlit
+🐍 Python  
+🤖 Scikit-learn  
+⚡ FastAPI  
+🎨 Streamlit  
+🔗 REST API
+
+</td>
+
+<td width="50%">
 
 ### 👥 Customer Persona Segmenter
 
-An unsupervised machine learning project for customer segmentation.
+Machine Learning project for identifying customer segments and behavioural patterns.
 
-**Technologies:**
+**Tech Stack**
 
-Python • Pandas • Scikit-learn • K-Means
+🐍 Python  
+📊 Pandas  
+🔢 NumPy  
+🤖 Scikit-learn  
+📈 Data Analysis
 
-### 🤖 Artificial Intelligence & Machine Learning
+</td>
 
-Developing practical AI/ML projects to apply machine learning
-concepts to real-world problems.
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 AI Projects
+
+Building practical Artificial Intelligence and Machine Learning applications.
+
+**Focus**
+
+🧠 Machine Learning  
+👁️ Computer Vision  
+📊 Data Science  
+⚙️ Automation
+
+</td>
+
+<td width="50%">
+
+### 🌐 Full Stack Projects
+
+Developing modern applications combining frontend, backend and databases.
+
+**Focus**
+
+🎨 Frontend  
+⚙️ Backend  
+🗄️ Databases  
+🔗 APIs
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub
+# 📊 GitHub Statistics
 
-I use GitHub to build, document, and collaborate on software,
-AI, and machine learning projects.
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kamalinirajan7-dotcom&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalinirajan7-dotcom&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+# 🔥 GitHub Streak
 
-- GitHub: [@kamalinirajan7-dotcom](https://github.com/kamalinirajan7-dotcom)
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=kamalinirajan7-dotcom&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalinirajan7-dotcom&theme=tokyo-night&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+```text
+🤖 Improve Machine Learning skills
+🧠 Build practical AI applications
+🌐 Develop full-stack applications
+⚙️ Learn advanced backend development
+☁️ Explore Cloud technologies
+🚀 Contribute to Open Source
+🤝 Connect With Me
+<div align="center"> <a href="https://github.com/kamalinirajan7-dotcom"> <img src="https://skillicons.dev/icons?i=github" width="55"/> </a> <!-- Add your LinkedIn URL below when ready --> <a href="https://www.linkedin.com/"> <img src="https://skillicons.dev/icons?i=linkedin" width="55"/> </a> </div>
+<div align="center">
+💡 "Building, Learning, and Creating with Technology."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C63FF&height=120&section=footer"/> </div> ```
